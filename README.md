@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronan Filloy
-- 👀 I’m interested in Game Devleopment and C#\C++ development
-- 🌱 I’m currently learning the Unity engine 
-- 💞️ I’m looking to collaborate on game dev, game jam projects as well as C# projects
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning React 
+- 💞️ I’m looking to collaborate on responsive webapps/webpages products
 - 📫 How to reach me: ronanfilloy@gmail.com
 
 <!---
