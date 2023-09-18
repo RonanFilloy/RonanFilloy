@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronan Filloy
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on scalable, responsive webapps
+- 🌱 I’m currently learning Typescript/Next.js 
+- 💞️ I’m looking to collaborate on user-friendly web-apps/web pages
 - 📫 How to reach me: ronanfilloy@gmail.com
 
 <!---
